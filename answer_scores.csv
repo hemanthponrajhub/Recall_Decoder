@@ -1,0 +1,4 @@
+,RAG (big model),RAG (small model),AI alone
+made up,0.0,0.0,100.0
+right,93.0,90.0,0.0
+wrong,7.0,10.0,0.0
