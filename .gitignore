@@ -1,0 +1,20 @@
+# Secret keys. Never upload this file.
+.env
+
+# Python's private box and cache files
+.venv/
+__pycache__/
+*.pyc
+
+# Notebook autosaves
+.ipynb_checkpoints/
+
+# Big raw data. Anyone can download it again from NHTSA.
+data/raw/*
+!data/raw/.gitkeep
+
+# Mac system files
+.DS_Store
+
+# Chroma search index. The notebook rebuilds it.
+data/chroma/
