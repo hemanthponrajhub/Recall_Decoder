@@ -2,7 +2,6 @@
 
 An LLM + RAG app built on official NHTSA vehicle recall data. It explains recalls in plain words, answers questions with recall numbers as proof, and compares cars before you buy.
 
-**Status:** being built, one step at a time.
 
 ## Data
 
